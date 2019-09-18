@@ -45,59 +45,5 @@ public enum VarFuncType {
 
     String getValue() {
         return this.key;
-//        switch (s) {
-//            case "float":
-//                return FLOAT;
-//            case "double":
-//                return DOUBLE;
-//            case "long double":
-//                return LONGDOUBLE;
-//            case "char":
-//                return CHAR;
-//            case "signed char":
-//                return SIGNEDCHAR;
-//            case "short":
-//                return SHORT;
-//            case "int":
-//                return INT;
-//            case "long":
-//                return LONG;
-//            case "long long":
-//                return LONGLONG;
-//            case "unsigned char":
-//                return UNSIGNEDCHAR;
-//            case "unsigned short":
-//                return UNSIGNEDSHORT;
-//            case "unsigned int":
-//                return UNSIGNEDINT;
-//            case "unsigned long":
-//                return UNSIGNEDLONG;
-//            case "unsigned long long":
-//                return UNSIGNEDLONGLONG;
-//            case "int8_t":
-//                return INT8_T;
-//            case "int16_t":
-//                return INT16_T;
-//            case "int32_t":
-//                return INT32_T;
-//            case "int64_t":
-//                return INT64_T;
-//            case "unit8_t":
-//                return UINT8_T;
-//            case "uint16_t":
-//                return UINT16_T;
-//            case "uint32_t":
-//                return UINT32_T;
-//            case "uint64_t":
-//                return UINT64_T;
-//            case "size_t":
-//                return SIZE_T;
-//            case "ptrdiff_t":
-//                return PTRDIFF_T;
-//            case "void":
-//                return VOID;
-//            default:
-//                return OTHER;
-//        }
     }
 }
